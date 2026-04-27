@@ -36,7 +36,7 @@ const CONFIG = {
     {
       label:         "Foto 1",
       file:          "1.png",        // nama file di assets/images/
-      captionAtas:   "jujur, ini so cantik sama imut banget si...", // teks di atas foto
+      captionAtas:   "jujur, ini cantik sama imut banget si...", // teks di atas foto
       captionBawah:  "ㅤ"
     },
     {
