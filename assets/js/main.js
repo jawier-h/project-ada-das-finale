@@ -720,10 +720,10 @@ class ProjectAda {
     if (optEl) optEl.innerHTML = '';
     if (resEl) {
       resEl.textContent = score === total
-        ? 'Sempurna! Kamu kenal aku banget 🥺💕'
+        ? 'Sempurna! oke kamu tau ttg aku💕'
         : score >= total / 2
-        ? 'Lumayan! Tapi masih perlu banyak waktu bersamaku 😉'
-        : 'Kurang nih~ kita perlu lebih sering ngobrol 💬';
+        ? 'Lumayan! Tapi masih perlu kenal ttg aku'
+        : 'Jelek jelek, banyakin main sama ngobrol mangkanya';
     }
     if (scrEl) scrEl.textContent = '';
     if (nextBtn) nextBtn.style.display = 'inline-flex';
